@@ -51,6 +51,7 @@ import * as firebase from 'firebase';
   };
   //firebase.initializeApp(config);
 //</script>
+//test
 
 firebase.initializeApp(config);
 
